@@ -1,2 +1,3 @@
-# RASA FAQ Bot
-FAQ Bot developed using RASA
+# FAQ Bot
+FAQ Bot developed using Rasa Core  & Rasa NLU
+
