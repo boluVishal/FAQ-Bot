@@ -19,6 +19,9 @@ python -m rasa_nlu.server -c nlu_config.yml  --path projects/
 ## Step 6: API to connect with custom UI
 http://localhost:5005/conversations/(userid)/respond
 
+### If you want to connect your bot to a webpage you can use this repository :
+https://github.com/JiteshGaikwad/RASA-Chatbot-UI.git
+
 
 
 
