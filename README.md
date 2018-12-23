@@ -1,5 +1,5 @@
-# FAQ Bot
-FAQ Bot developed using Rasa Core  & Rasa NLU
+# FAQ Bot 😎
+The purpose of this repo is to showcase the implementation of FAQ Bot in Rasa Framework
 
 Original implementation : 
 https://github.com/RasaHQ/rasa-demo.git
